@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hugo-herault.dev/](https://hugo-herault.dev/)
 
-- 📝 I regularly help students on my spare time ! [https://www.linkedin.com/feed/update/urn:li:activity:7245429690679668739/?originalSubdomain=fr](https://www.linkedin.com/feed/update/urn:li:activity:7245429690679668739/?originalSubdomain=fr)
+- 📝 I regularly [help students](https://www.linkedin.com/posts/ada-tech-school_une-belle-r%C3%A9ussite-pour-cette-premi%C3%A8re-activity-7245429690679668739-JAjt?utm_source=share&utm_medium=member_desktop) on my spare time !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
