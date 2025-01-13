@@ -3,7 +3,7 @@
 
 - ⚡ I’m currently working with some awesome people on [francetravail.io](https://francetravail.io/)
 
-- 🌱 I’m currently learning **everything orbiting around devops (Gitlab's CI, k8s and helm charts)**
+- 🌱 Theses days, I try to learn as much as I can about devops tools (Gitlab's CI, k8s and helm charts)
 
 - 👯 Previously I worked on [Compétences Validées](https://candidat.francetravail.fr/competences-validees/)
 
