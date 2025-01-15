@@ -1,7 +1,7 @@
 <h1 align="center">I'm Hugo !</h1>
 <h3 align="center">Software developer and wayyy too obsessed about Engineering (and Space)</h3>
 
-- ⚡ I’m currently working with some awesome people on [francetravail.io](https://francetravail.io/)
+- ⚡ I’m working with some awesome people on [francetravail.io](https://francetravail.io/)
 
 - 🌱 Theses days, I try to learn as much as I can about devops tools (Gitlab's CI, k8s and helm charts)
 
