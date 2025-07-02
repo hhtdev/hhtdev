@@ -7,8 +7,6 @@
 
 - 👯 Previously I worked on [Compétences Validées](https://candidat.francetravail.fr/competences-validees/)
 
-- 👨‍💻 All of my projects are available at [https://hugo-herault.dev/](https://hugo-herault.dev/)
-
 - 📝 I regularly [help students](https://www.linkedin.com/posts/ada-tech-school_une-belle-r%C3%A9ussite-pour-cette-premi%C3%A8re-activity-7245429690679668739-JAjt?utm_source=share&utm_medium=member_desktop) on my spare time !
 
 <h3 align="left">Connect with me:</h3>
