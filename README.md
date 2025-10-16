@@ -1,11 +1,11 @@
 <h1 align="center">I'm Hugo !</h1>
 <h3 align="center">Software developer and wayyy too obsessed about Engineering (and Space)</h3>
 
-- ⚡ I’m working with some awesome people on [francetravail.io](https://francetravail.io/)
+- ⚡ I’m working with some awesome people at [Keepcod](https://keepcod.fr/)
 
 - 🌱 Theses days, I try to learn as much as I can about devops tools (Gitlab's CI, k8s and helm charts)
 
-- 👯 Previously I worked on [Compétences Validées](https://candidat.francetravail.fr/competences-validees/)
+- 👯 Previously I worked on [Compétences Validées](https://candidat.francetravail.fr/competences-validees/) and [francetravail.io](https://francetravail.io/)
 
 - 📝 I regularly [help students](https://www.linkedin.com/posts/ada-tech-school_une-belle-r%C3%A9ussite-pour-cette-premi%C3%A8re-activity-7245429690679668739-JAjt?utm_source=share&utm_medium=member_desktop) on my spare time !
 
