@@ -3,7 +3,7 @@
 
 - ⚡ I’m working with some awesome people at [Keepcod](https://keepcod.fr/)
 
-- 🌱 Theses days, I try to learn as much as I can about devops tools (Gitlab's CI, k8s and helm charts)
+- 🌱 Theses days, I try to learn as much as I can about devops tools (Gitlab's CI, k8s and Terraform)
 
 - 👯 Previously I worked on [Compétences Validées](https://candidat.francetravail.fr/competences-validees/) and [francetravail.io](https://francetravail.io/)
 
